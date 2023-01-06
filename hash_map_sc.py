@@ -1,8 +1,3 @@
-# Name: Seth Stephanz
-# OSU Email: stephase@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: Dec. 2nd at midnight PST (Dec. 3rd at 3 AM)
 # Description: This file contains several methods for manipulating data within a HashMap that uses linked lists
 # to avoid collisions.
 
